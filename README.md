@@ -67,6 +67,8 @@ url 收藏夹
 
 #### 算法与数学
 
+* [Project Euler](https://projecteuler.net/)
+* [leetcode](https://oj.leetcode.com/problems/)
 * [matrix67](http://www.matrix67.com/blog/)
 
 ### github org
