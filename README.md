@@ -26,23 +26,6 @@ url 收藏夹
 * [腾讯大讲堂](http://djt.qq.com/)
 * [鱼C工作室](http://bbs.fishc.com/portal.php)
 
-### UED
-
-* [淘宝UED](http://ued.taobao.org/blog/)
-* [支付宝UED](http://ued.alipay.com/)
-* [支付宝PED](http://ped.alipay.com/)
-* [新浪UED](http://ued.sina.com/)
-* [百度MUX](http://mux.baidu.com/)
-* [百度泛用户体验](http://www.baiduux.com/)
-* [腾讯CDC](http://cdc.tencent.com/)
-* [腾讯WSD用户体验设计团队](http://wsd.tencent.com/)
-* [微博UDC](http://udc.weibo.com/)
-* [网易用户体验设计中心](http://uedc.163.com/)
-* [阿里用户体验设计部](http://www.aliued.cn/)
-* [淘宝网用户体验团队博客](http://ued.taobao.com/blog/)
-* [迅雷用户体验设计中心](http://cued.xunlei.com/)
-* [携程UED](http://ued.ctrip.com/blog/)
-
 
 ### 资讯
 
@@ -50,6 +33,7 @@ url 收藏夹
 * [极客公园](http://www.geekpark.net/)
 * [灵感起源·](http://www.ideasr.com/)
 * [极客公园](http://www.geekpark.net/)
+* [gameres](http://www.gameres.com/)
 
 ### Blog
 
@@ -65,6 +49,8 @@ url 收藏夹
 * [angryant](http://angryant.com/)
 * [r6](http://www.r66r.net/)
 * [左耳朵耗子](http://coolshell.cn/)
+* [小胡子哥](http://www.cnblogs.com/hustskyking/)
+* [四火的唠叨](http://www.raychase.net/)
 
 
 ### 编程语言
@@ -112,64 +98,25 @@ url 收藏夹
 * [w3ctech](http://www.w3ctech.com/)
 * [html5cn](http://www.html5cn.org/)
 * [Feeldesign](http://www.feeldesignstudio.com/)
+* [淘宝UED](http://ued.taobao.org/blog/)
+* [新浪UED](http://ued.sina.com/)
+* [百度MUX](http://mux.baidu.com/)
+* [百度UUX](http://www.baiduux.com/)
+* [腾讯CDC](http://cdc.tencent.com/)
+* [腾讯WSD](http://wsd.tencent.com/)
+* [微博UDC](http://udc.weibo.com/)
+* [网易UED](http://uedc.163.com/)
+* [阿里UED](http://www.aliued.cn/)
+* [淘宝UED](http://ued.taobao.com/blog/)
+* [迅雷UED](http://cued.xunlei.com/)
+* [携程UED](http://ued.ctrip.com/blog/)
 
 
+### 一些汇总
 
-####### temp
-
-http://jikey.cnblogs.com/
-豪情
-http://www.cnblogs.com/hustskyking/
-小胡子哥
-http://www.cnblogs.com/cyStyle/
-chmyun
-https://github.com/xufei/blog/tree/master/posts
-民工精髓V
-http://www.cnblogs.com/aaronjs/
-Aaron
-http://www.cnblogs.com/binyong/
-binyong
-http://www.cnblogs.com/TomXu
-汤姆大叔的博客
-http://www.cnblogs.com/fool/category/264215.html
-笨蛋的座右铭
-http://www.cnblogs.com/winter-cn/
-winter-cn
-http://mikecoder.net/
-Mike的世界
-http://qingbob.com/
-轻薄
-http://www.cnblogs.com/sky000/
-天涯的blog
-http://www.cnblogs.com/janes/
-小静
-http://blog.94it.net/catalog.asp?cate=11
-沉船
-http://blog.csdn.net/moshengtan?viewmode=list
-moshengtan
-http://rolfzhang.com/
-Rolf Zhang 博客
-http://demonc.com/
-demonc
-http://www.zhangxinxu.com/wordpress/
-张鑫旭
-http://www.ifeenan.com/
-ifeenan
-http://www.cnblogs.com/iamzhanglei/
-iamzhanglei
-http://99jty.com/
-99jty
-https://github.com/fouber/blog
-前端农民工（张云龙）
-
-http://www.cnblogs.com/iamzhanglei/
-当耐特
-
-设计
-
-http://www.jing-ui.com/
-静静的设计
-http://www.raychase.net/
-四火的唠叨
-http://www.cnblogs.com/jenry/
-bigwhiteshark（云飞扬）
+* [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+* [programmer-should-read-what-books](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html)
+* [what-non-programming-books-should-programmers-read](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)
+* [free-programming-books](https://github.com/vhf/free-programming-books)
+* [list-of-free-programming-books](http://resrc.io/list/10/list-of-free-programming-books/)
+* [what-is-the-single-most-influential-book-every-programmer-should-read](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713#1713)
