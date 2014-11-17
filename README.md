@@ -98,7 +98,6 @@ url 收藏夹
 * [w3ctech](http://www.w3ctech.com/)
 * [html5cn](http://www.html5cn.org/)
 * [Feeldesign](http://www.feeldesignstudio.com/)
-* [淘宝UED](http://ued.taobao.org/blog/)
 * [新浪UED](http://ued.sina.com/)
 * [百度MUX](http://mux.baidu.com/)
 * [百度UUX](http://www.baiduux.com/)
@@ -115,8 +114,9 @@ url 收藏夹
 ### 一些汇总
 
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
-* [programmer-should-read-what-books](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html)
-* [what-non-programming-books-should-programmers-read](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)
 * [free-programming-books](https://github.com/vhf/free-programming-books)
+* [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN)
 * [list-of-free-programming-books](http://resrc.io/list/10/list-of-free-programming-books/)
+* [programmer-should-read-what-books](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html)
+* [what-non-programming-books-should-programmers-read(stackoverflow)](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)
 * [what-is-the-single-most-influential-book-every-programmer-should-read](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713#1713)
