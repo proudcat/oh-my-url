@@ -32,7 +32,6 @@ url 收藏夹
 * [游戏邦](http://gamerboom.com/)
 * [极客公园](http://www.geekpark.net/)
 * [灵感起源·](http://www.ideasr.com/)
-* [极客公园](http://www.geekpark.net/)
 * [gameres](http://www.gameres.com/)
 
 ### Blog
