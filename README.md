@@ -17,6 +17,7 @@ url 收藏夹
 * [wiki-category-glsl](http://en.wikibooks.org/wiki/Category:GLSL_Programming)
 * [wiki-category-shader](http://en.wikibooks.org/wiki/Category:Shading_languages)
 * [wiki-category-language](http://en.wikibooks.org/wiki/Category:Computer_programming_languages)
+* [wiki-title-shader](http://wiki.unity3d.com/index.php?title=Shaders)
 
 
 ### 开发者社区
