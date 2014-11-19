@@ -7,6 +7,7 @@ url 收藏夹
 * [nehe-cn](http://www.yakergong.net/nehe/)
 * [unity3d-archive](http://unity3d.com/unite/archive)
 * [codesampler](http://www.codesampler.com/)
+* [nate robins](http://user.xmission.com/~nate/index.html)
 
 ### 开发者社区
 
@@ -36,6 +37,8 @@ url 收藏夹
 
 ### Blog
 
+* [罗朝辉](http://www.cnblogs.com/kesalin/)(游戏开发)
+* [xak的专栏](http://blog.csdn.net/cubesky/)(游戏开发)
 * [酷壳](http://coolshell.cn/)
 * [Lenky](http://www.lenky.info/)
 * [雨松MOMO](http://www.xuanyusong.com/)
@@ -72,6 +75,7 @@ url 收藏夹
 * [matrix67](http://blog.csdn.net/column/details/algorithm-easyword.html)
 * [白话经典算法](http://www.matrix67.com/blog/)
 * [《计算机程序的构造和解释》答案](http://sicp.readthedocs.org/en/latest/)
+* [百度百科经典算法链接集](http://www.cnblogs.com/oldman/articles/2592319.html)
 
 ### github org
 
