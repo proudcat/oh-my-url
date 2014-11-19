@@ -1,13 +1,23 @@
 url 收藏夹
 ============================
 
-#### 3D
+#### 游戏开发
 
 * [codesampler](http://www.codesampler.com/)
+* [nehe](http://nehe.gamedev.net/)
 * [nehe-cn](http://www.yakergong.net/nehe/)
 * [unity3d-archive](http://unity3d.com/unite/archive)
 * [codesampler](http://www.codesampler.com/)
 * [nate robins](http://user.xmission.com/~nate/index.html)
+* [NVIDIA-Developer](https://developer.nvidia.com/)
+* [gamedev](http://www.gamedev.net/)
+* [wiki-cg](http://en.wikibooks.org/wiki/Cg_Programming)
+* [wiki-glsl](http://en.wikibooks.org/wiki/GLSL_Programming)
+* [wiki-category-cg](http://en.wikibooks.org/wiki/Category:Cg_Programming)
+* [wiki-category-glsl](http://en.wikibooks.org/wiki/Category:GLSL_Programming)
+* [wiki-category-shader](http://en.wikibooks.org/wiki/Category:Shading_languages)
+* [wiki-category-language](http://en.wikibooks.org/wiki/Category:Computer_programming_languages)
+
 
 ### 开发者社区
 
@@ -19,7 +29,6 @@ url 收藏夹
 * [msdn](http://msdn.microsoft.com/zh-cn)
 * [图灵社区](http://www.ituring.com.cn/)
 * [IBM-Developer](http://www.ibm.com/developerworks/cn/)
-* [NVIDIA-Developer](https://developer.nvidia.com/)
 * [Mozilla-Develper](https://developer.mozilla.org/zh-CN/)
 * [QQ游戏设计中心](http://gdc.qq.com/)
 * [腾讯ISUX](http://isux.tencent.com/)
@@ -37,8 +46,10 @@ url 收藏夹
 
 ### Blog
 
-* [罗朝辉](http://www.cnblogs.com/kesalin/)(游戏开发)
-* [xak的专栏](http://blog.csdn.net/cubesky/)(游戏开发)
+* [罗朝辉](http://www.cnblogs.com/kesalin/)
+* [lucida](http://zh.lucida.me/)
+* [西川善司](http://www.z-z-z.jp/BLOG/)
+* [xak的专栏](http://blog.csdn.net/cubesky/)
 * [酷壳](http://coolshell.cn/)
 * [Lenky](http://www.lenky.info/)
 * [雨松MOMO](http://www.xuanyusong.com/)
@@ -67,6 +78,7 @@ url 收藏夹
 * [蓝色理想](http://www.blueidea.com/)
 * [翼虎网](http://www.yiihuu.com/)
 * [蓝色理想](http://www.blueidea.com/)
+* [第九游戏](http://www.then9.com/)
 
 #### 算法与数学
 
@@ -86,7 +98,7 @@ url 收藏夹
 
 ### 文档
 
-* [sochina-api](http://tool.oschina.net/apidocs)
+* [osc-api](http://tool.oschina.net/apidocs)
 * [unity-cn](http://edu.china.unity3d.com/learning_document)
 * [Git 参考手册](http://gitref.justjavac.com)
 * [Pro Git](http://git-scm.com/book/zh)
