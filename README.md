@@ -1,4 +1,4 @@
-url 收藏夹
+url star
 ============================
 
 #### 游戏开发
@@ -6,10 +6,10 @@ url 收藏夹
 * [codesampler](http://www.codesampler.com/)
 * [nehe](http://nehe.gamedev.net/)
 * [nehe-cn](http://www.yakergong.net/nehe/)
-* [unity3d-archive](http://unity3d.com/unite/archive)
+* [unity-unite](http://unity3d.com/unite/archive)
 * [codesampler](http://www.codesampler.com/)
 * [nate robins](http://user.xmission.com/~nate/index.html)
-* [NVIDIA-Developer](https://developer.nvidia.com/)
+* [nvidia-developer](https://developer.nvidia.com/)
 * [gamedev](http://www.gamedev.net/)
 * [wiki-cg](http://en.wikibooks.org/wiki/Cg_Programming)
 * [wiki-glsl](http://en.wikibooks.org/wiki/GLSL_Programming)
@@ -18,6 +18,10 @@ url 收藏夹
 * [wiki-category-shader](http://en.wikibooks.org/wiki/Category:Shading_languages)
 * [wiki-category-language](http://en.wikibooks.org/wiki/Category:Computer_programming_languages)
 * [wiki-title-shader](http://wiki.unity3d.com/index.php?title=Shaders)
+* [wiki-unity-cg](http://en.wikibooks.org/wiki/Cg_Programming/Unity)
+* [cgcookie](http://cgcookie.com/)
+* [unity-built-in-shader](http://unity3d.com/unity/download/archive/)
+* [unity-manual-graphics](http://docs.unity3d.com/Manual/Graphics.html)
 
 
 ### 开发者社区
