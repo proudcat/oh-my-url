@@ -47,6 +47,15 @@ MY FAVORITE URL
 * [鱼C工作室](http://bbs.fishc.com/portal.php)
 
 
+### github org
+
+* [Microsoft](https://github.com/Microsoft)
+* [Unity3d](https://github.com/Unity-Technologies)
+* [Unity3d-jp](https://github.com/unity3d-jp)
+* [Adobe](https://github.com/adobe)
+* [NVIDIA](https://github.com/NVIDIAGameWorks)
+
+
 ### 资讯
 
 * [游戏邦](http://gamerboom.com/)
@@ -102,14 +111,6 @@ MY FAVORITE URL
 * [百度百科经典算法链接集](http://www.cnblogs.com/oldman/articles/2592319.html)
 
 
-### github org
-
-* [Microsoft](https://github.com/Microsoft)
-* [Unity3d](https://github.com/Unity-Technologies)
-* [Unity3d-jp](https://github.com/unity3d-jp)
-* [Adobe](https://github.com/adobe)
-
-
 ### 文档
 
 * [osc-api](http://tool.oschina.net/apidocs)
@@ -148,6 +149,6 @@ MY FAVORITE URL
 * [free-programming-books](https://github.com/vhf/free-programming-books)
 * [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN)
 * [list-of-free-programming-books](http://resrc.io/list/10/list-of-free-programming-books/)
-* [programmer-should-read-what-books](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html)
-* [what-non-programming-books-should-programmers-read](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)
-* [most-influential-book-programmers-should-read](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713#1713)
+* [程序员应该读的书](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html)
+* [程序员应该读的非编程的书(stackoverflow)](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)
+* [程序员应该读的书(stackoverflow)](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713#1713)
