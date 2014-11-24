@@ -1,9 +1,11 @@
-url star
+MY FAVORITE URL
 ============================
 
-#### 游戏开发
+
+### 图形学
 
 * [codesampler](http://www.codesampler.com/)
+* [opengpu](http://www.opengpu.org/forum.php)
 * [nehe](http://nehe.gamedev.net/)
 * [nehe-cn](http://www.yakergong.net/nehe/)
 * [unity-unite](http://unity3d.com/unite/archive)
@@ -22,6 +24,9 @@ url star
 * [cgcookie](http://cgcookie.com/)
 * [unity-built-in-shader](http://unity3d.com/unity/download/archive/)
 * [unity-manual-graphics](http://docs.unity3d.com/Manual/Graphics.html)
+* [西川善司 3D图形技术 原文1-99回](http://news.mynavi.jp/column/graphics/)
+* [西川善司 3D图形技术 译文1-8回](http://www.opengpu.org/forum.php?mod=viewthread&tid=7376&extra=page%3D1)
+* [西川善司 3D图形技术 译文9-13回](http://www.opengpu.org/forum.php?mod=viewthread&tid=7550)
 
 
 ### 开发者社区
@@ -46,7 +51,7 @@ url star
 
 * [游戏邦](http://gamerboom.com/)
 * [极客公园](http://www.geekpark.net/)
-* [灵感起源·](http://www.ideasr.com/)
+* [灵感起源](http://www.ideasr.com/)
 * [gameres](http://www.gameres.com/)
 
 ### Blog
@@ -75,6 +80,7 @@ url star
 
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 
+
 ### Free
 
 * [IT eBooks](http://it-ebooks.info/)
@@ -85,6 +91,7 @@ url star
 * [蓝色理想](http://www.blueidea.com/)
 * [第九游戏](http://www.then9.com/)
 
+
 #### 算法与数学
 
 * [Project Euler](https://projecteuler.net/)
@@ -94,12 +101,14 @@ url star
 * [《计算机程序的构造和解释》答案](http://sicp.readthedocs.org/en/latest/)
 * [百度百科经典算法链接集](http://www.cnblogs.com/oldman/articles/2592319.html)
 
+
 ### github org
 
 * [Microsoft](https://github.com/Microsoft)
 * [Unity3d](https://github.com/Unity-Technologies)
 * [Unity3d-jp](https://github.com/unity3d-jp)
 * [Adobe](https://github.com/adobe)
+
 
 ### 文档
 
@@ -108,9 +117,11 @@ url star
 * [Git 参考手册](http://gitref.justjavac.com)
 * [Pro Git](http://git-scm.com/book/zh)
 
+
 ### Hack
 
 * [fosshub](http://www.fosshub.com/)
+
 
 ### 前端
 
@@ -138,5 +149,5 @@ url star
 * [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN)
 * [list-of-free-programming-books](http://resrc.io/list/10/list-of-free-programming-books/)
 * [programmer-should-read-what-books](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html)
-* [what-non-programming-books-should-programmers-read(stackoverflow)](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)
-* [what-is-the-single-most-influential-book-every-programmer-should-read](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713#1713)
+* [what-non-programming-books-should-programmers-read](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)
+* [most-influential-book-programmers-should-read](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713#1713)
