@@ -152,3 +152,10 @@ MY FAVORITE URL
 * [程序员应该读的书](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html)
 * [程序员应该读的非编程的书(stackoverflow)](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)
 * [程序员应该读的书(stackoverflow)](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713#1713)
+
+
+### temp
+* [nvidia-gpu-gems-demo](https://developer.nvidia.com/content/gpu-gems-downloads)
+* [nvidia-gpu-gems-book123](https://developer.nvidia.com/gpugems/GPUGems)
+* [nvidia-archive](https://developer.nvidia.com/archive)
+* [shaderx](http://tog.acm.org/resources/shaderx/)
