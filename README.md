@@ -1,12 +1,6 @@
 MY FAVORITE URL
 ============================
 
-目录
-
-[TOC]
-
-------
-
 ### 图形学
 
 * [codesampler](http://www.codesampler.com/)
@@ -29,6 +23,10 @@ MY FAVORITE URL
 * [cgcookie](http://cgcookie.com/)
 * [unity-built-in-shader](http://unity3d.com/unity/download/archive/)
 * [unity-manual-graphics](http://docs.unity3d.com/Manual/Graphics.html)
+* [nvidia-gpu-gems-demo](https://developer.nvidia.com/content/gpu-gems-downloads)
+* [nvidia-gpu-gems-book123](https://developer.nvidia.com/gpugems/GPUGems)
+* [nvidia-archive](https://developer.nvidia.com/archive)
+* [shaderx](http://tog.acm.org/resources/shaderx/)
 * [西川善司 3D图形技术 原文1-99回](http://news.mynavi.jp/column/graphics/)
 * [西川善司 3D图形技术 译文1-8回](http://www.opengpu.org/forum.php?mod=viewthread&tid=7376&extra=page%3D1)
 * [西川善司 3D图形技术 译文9-13回](http://www.opengpu.org/forum.php?mod=viewthread&tid=7550)
@@ -158,10 +156,3 @@ MY FAVORITE URL
 * [程序员应该读的书](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html)
 * [程序员应该读的非编程的书(stackoverflow)](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)
 * [程序员应该读的书(stackoverflow)](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713#1713)
-
-
-### temp
-* [nvidia-gpu-gems-demo](https://developer.nvidia.com/content/gpu-gems-downloads)
-* [nvidia-gpu-gems-book123](https://developer.nvidia.com/gpugems/GPUGems)
-* [nvidia-archive](https://developer.nvidia.com/archive)
-* [shaderx](http://tog.acm.org/resources/shaderx/)
