@@ -3,7 +3,6 @@ MY FAVORITE URL
 
 ### 图形学
 
-* [codesampler](http://www.codesampler.com/)
 * [opengpu](http://www.opengpu.org/forum.php)
 * [nehe](http://nehe.gamedev.net/)
 * [nehe-cn](http://www.yakergong.net/nehe/)
@@ -58,6 +57,9 @@ MY FAVORITE URL
 * [Adobe](https://github.com/adobe)
 * [NVIDIA](https://github.com/NVIDIAGameWorks)
 
+### 在线工具
+
+* [正则表达式可视化](http://jex.im/regulex/)
 
 ### 资讯
 
@@ -103,7 +105,7 @@ MY FAVORITE URL
 * [蓝色理想](http://www.blueidea.com/)
 * [第九游戏](http://www.then9.com/)
 * [原画](http://www.artstation.com/)
-
+* [w3school离线资源](http://www.flygon.net/archives/427)
 
 ### 算法与数学
 
@@ -130,6 +132,8 @@ MY FAVORITE URL
 
 ### 前端
 
+* [w3school](http://www.w3school.com.cn/)
+* [w3cschool](http://www.w3cschool.cc/)
 * [前端观察](http://www.qianduan.net/)
 * [w3ctech](http://www.w3ctech.com/)
 * [html5cn](http://www.html5cn.org/)
@@ -145,6 +149,7 @@ MY FAVORITE URL
 * [淘宝UED](http://ued.taobao.com/blog/)
 * [迅雷UED](http://cued.xunlei.com/)
 * [携程UED](http://ued.ctrip.com/blog/)
+
 
 
 ### 一些汇总
