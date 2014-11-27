@@ -154,6 +154,7 @@ MY FAVORITE URL
 
 ### 一些汇总
 
+* [前端技能汇总](https://github.com/JacksonTian/fks)
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 * [free-programming-books](https://github.com/vhf/free-programming-books)
 * [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN)
