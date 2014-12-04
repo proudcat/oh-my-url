@@ -11,6 +11,7 @@ MY FAVORITE URL
 * [nate robins](http://user.xmission.com/~nate/index.html)
 * [nvidia-developer](https://developer.nvidia.com/)
 * [gamedev](http://www.gamedev.net/)
+* [physically-based rendering](http://www.physicallybasedrendering.com/)
 * [wiki-cg](http://en.wikibooks.org/wiki/Cg_Programming)
 * [wiki-glsl](http://en.wikibooks.org/wiki/GLSL_Programming)
 * [wiki-category-cg](http://en.wikibooks.org/wiki/Category:Cg_Programming)
@@ -31,22 +32,46 @@ MY FAVORITE URL
 * [西川善司 3D图形技术 译文9-13回](http://www.opengpu.org/forum.php?mod=viewthread&tid=7550)
 
 
-### 开发者社区
+### 自己开发一个渲染引擎
 
-* [9ria](http://www.9ria.com/)
-* [极客公园](http://www.geekpark.net/)
-* [channel9](http://channel9.msdn.com/)
-* [简书](http://www.jianshu.com/)
-* [technet](http://technet.microsoft.com/zh-cn/)
-* [msdn](http://msdn.microsoft.com/zh-cn)
-* [图灵社区](http://www.ituring.com.cn/)
-* [IBM-Developer](http://www.ibm.com/developerworks/cn/)
-* [Mozilla-Develper](https://developer.mozilla.org/zh-CN/)
-* [QQ游戏设计中心](http://gdc.qq.com/)
-* [腾讯ISUX](http://isux.tencent.com/)
-* [腾讯游戏官方设计团队](http://tgideas.qq.com/)
-* [腾讯大讲堂](http://djt.qq.com/)
-* [鱼C工作室](http://bbs.fishc.com/portal.php)
+* [如何开始用 C++ 写一个光栅化渲染器](http://www.zhihu.com/question/24786878)
+* [开源光栅化渲染器SALVIA的漫长五年](http://www.cnblogs.com/lingjingqiu/archive/2013/01/13/2858177.html)
+* [SALVIA(A Direct3D 10+ like software renderer)](https://code.google.com/p/softart/)
+* [openGPU SALVIA区](http://www.opengpu.org/bbs/forum.php?mod=forumdisplay&fid=15)
+* [Graphics Pipeline(DX)](http://msdn.microsoft.com/en-us/library/windows/desktop/ff476882(v=vs.85).aspx)
+* [Rasterization on Larrabee](https://software.intel.com/en-us/articles/rasterization-on-larrabee)
+* [JavaScript 光线追踪入门](http://www.cnblogs.com/miloyip/archive/2010/03/29/1698953.html)
+* [JavaScript 基本光源](http://www.cnblogs.com/miloyip/archive/2010/04/02/1702768.html)
+* [布雷森汉姆直线算法](http://zh.wikipedia.org/wiki/%E5%B8%83%E9%9B%B7%E6%A3%AE%E6%BC%A2%E5%A7%86%E7%9B%B4%E7%B7%9A%E6%BC%94%E7%AE%97%E6%B3%95)
+* [吴小林直线算法](http://zh.wikipedia.org/wiki/%E5%90%B4%E5%B0%8F%E6%9E%97%E7%9B%B4%E7%BA%BF%E7%AE%97%E6%B3%95)
+* [Line clipping](http://en.wikipedia.org/wiki/Line_clipping)
+* [画家算法](http://zh.wikipedia.org/wiki/%E7%94%BB%E5%AE%B6%E7%AE%97%E6%B3%95)
+* [深度缓冲](http://zh.wikipedia.org/wiki/%E6%B7%B1%E5%BA%A6%E7%BC%93%E5%86%B2)
+* [Global Illumination in 99 lines of C++](http://www.kevinbeason.com/smallpt/)
+
+
+### 牛逼闪闪的blog
+
+* [sillyboy](http://sillyboy.sinaapp.com/)(shader)
+* [罗朝辉](http://www.cnblogs.com/kesalin/)
+* [lucida](http://zh.lucida.me/)
+* [空明流转](http://www.cnblogs.com/lingjingqiu/)
+* [西川善司](http://www.z-z-z.jp/BLOG/)
+* [xak的专栏](http://blog.csdn.net/cubesky/)
+* [酷壳](http://coolshell.cn/)
+* [Lenky](http://www.lenky.info/)
+* [雨松MOMO](http://www.xuanyusong.com/)
+* [xiaoke](http://blog.1vr.cn/)
+* [云风](http://codingnow.com/)
+* [阮一峰](http://www.ruanyifeng.com/blog/archives.html)
+* [CodingFarmer](http://golanger.cn/)
+* [突壳开源](http://www.tok.cc/)
+* [juvenxu](http://www.juvenxu.com/)
+* [angryant](http://angryant.com/)
+* [r6](http://www.r66r.net/)
+* [左耳朵耗子](http://coolshell.cn/)
+* [小胡子哥](http://www.cnblogs.com/hustskyking/)
+* [四火的唠叨](http://www.raychase.net/)
 
 
 ### github org
@@ -66,52 +91,45 @@ MY FAVORITE URL
 * [oschina-online-tool](http://tool.oschina.net/)
 
 
-### 资讯
+### 社区
+
+* [9ria](http://www.9ria.com/)
+* [极客公园](http://www.geekpark.net/)
+* [channel9](http://channel9.msdn.com/)
+* [简书](http://www.jianshu.com/)
+* [technet](http://technet.microsoft.com/zh-cn/)
+* [msdn](http://msdn.microsoft.com/zh-cn)
+* [图灵社区](http://www.ituring.com.cn/)
+* [IBM-Developer](http://www.ibm.com/developerworks/cn/)
+* [Mozilla-Develper](https://developer.mozilla.org/zh-CN/)
+* [QQ游戏设计中心](http://gdc.qq.com/)
+* [腾讯ISUX](http://isux.tencent.com/)
+* [腾讯游戏官方设计团队](http://tgideas.qq.com/)
+* [腾讯大讲堂](http://djt.qq.com/)
+* [鱼C工作室](http://bbs.fishc.com/portal.php)
+
+
+### 资讯&资源
 
 * [游戏邦](http://gamerboom.com/)
 * [极客公园](http://www.geekpark.net/)
 * [灵感起源](http://www.ideasr.com/)
 * [gameres](http://www.gameres.com/)
-
-### Blog
-
-* [sillyboy](http://sillyboy.sinaapp.com/)(shader)
-* [罗朝辉](http://www.cnblogs.com/kesalin/)
-* [lucida](http://zh.lucida.me/)
-* [西川善司](http://www.z-z-z.jp/BLOG/)
-* [xak的专栏](http://blog.csdn.net/cubesky/)
-* [酷壳](http://coolshell.cn/)
-* [Lenky](http://www.lenky.info/)
-* [雨松MOMO](http://www.xuanyusong.com/)
-* [xiaoke](http://blog.1vr.cn/)
-* [云风](http://codingnow.com/)
-* [阮一峰](http://www.ruanyifeng.com/blog/archives.html)
-* [CodingFarmer](http://golanger.cn/)
-* [突壳开源](http://www.tok.cc/)
-* [juvenxu](http://www.juvenxu.com/)
-* [angryant](http://angryant.com/)
-* [r6](http://www.r66r.net/)
-* [左耳朵耗子](http://coolshell.cn/)
-* [小胡子哥](http://www.cnblogs.com/hustskyking/)
-* [四火的唠叨](http://www.raychase.net/)
-
-
-### 编程语言
-
-* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
-
-
-### Free
-
 * [IT eBooks](http://it-ebooks.info/)
-* [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/) (简体)
 * [CG织梦网](http://www.cgdream.org/)
 * [蓝色理想](http://www.blueidea.com/)
 * [翼虎网](http://www.yiihuu.com/)
 * [蓝色理想](http://www.blueidea.com/)
 * [第九游戏](http://www.then9.com/)
 * [原画](http://www.artstation.com/)
+
+
+### 教程
+
+* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+* [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/) (简体)
 * [w3school离线资源](http://www.flygon.net/archives/427)
+
 
 ### 算法与数学
 
