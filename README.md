@@ -32,6 +32,17 @@ MY FAVORITE URL
 * [西川善司 3D图形技术 译文9-13回](http://www.opengpu.org/forum.php?mod=viewthread&tid=7550)
 
 
+### DirectX
+* [DirectX 游戏编程代码示例](http://msdn.microsoft.com/zh-cn/library/windows/apps/dn194515.aspx)
+* [DX11开发游戏 msdn](http://msdn.microsoft.com/zh-cn/library/windows/apps/hh452744.aspx)
+* [vs dx 调试](http://msdn.microsoft.com/zh-cn/library/windows/apps/hh315751)
+* [DirectX 游戏开发入门](http://msdn.microsoft.com/zh-cn/library/windows/apps/jj554502.aspx)
+
+
+### OpenGL
+
+
+
 ### 自己开发一个渲染引擎
 
 * [如何开始用 C++ 写一个光栅化渲染器](http://www.zhihu.com/question/24786878)
@@ -72,6 +83,7 @@ MY FAVORITE URL
 * [左耳朵耗子](http://coolshell.cn/)
 * [小胡子哥](http://www.cnblogs.com/hustskyking/)
 * [四火的唠叨](http://www.raychase.net/)
+* [毛星云](http://blog.csdn.net/poem_qianmo)
 
 
 ### github org
