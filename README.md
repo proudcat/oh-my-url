@@ -1,6 +1,10 @@
 MY FAVORITE URL
 ============================
 
+### Book Mark
+* (shaderlab manual)[http://docs.unity3d.com/Manual/ShadersOverview.html]
+* (shaderlab reference)[http://docs.unity3d.com/Manual/SL-SurfaceShaders.html]
+
 ### 图形学
 
 * [opengpu](http://www.opengpu.org/forum.php)
@@ -89,15 +93,16 @@ MY FAVORITE URL
 * [毛星云](http://blog.csdn.net/poem_qianmo)
 
 
-### github org
+### 开源组织
 
-* [Microsoft](https://github.com/Microsoft)
-* [Unity3d](https://github.com/Unity-Technologies)
-* [Unity3d-jp](https://github.com/unity3d-jp)
-* [Adobe](https://github.com/adobe)
-* [NVIDIA](https://github.com/NVIDIAGameWorks)
-* [twitter](http://twitter.github.io/)
-* [网易](https://github.com/NetEase)
+* [Microsoft(github)](https://github.com/Microsoft)
+* [Unity3d(github)](https://github.com/Unity-Technologies)
+* [Unity3d(bitbucket)](https://bitbucket.org/Unity-Technologies/)
+* [Unity3d-jp(github)](https://github.com/unity3d-jp)
+* [Adobe(github)](https://github.com/adobe)
+* [NVIDIA(github)](https://github.com/NVIDIAGameWorks)
+* [twitter(github)](http://twitter.github.io/)
+* [网易(github)](https://github.com/NetEase)
 
 
 ### 在线工具
