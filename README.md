@@ -2,8 +2,15 @@ MY FAVORITE URL
 ============================
 
 ### Book Mark
-* (shaderlab manual)[http://docs.unity3d.com/Manual/ShadersOverview.html]
-* (shaderlab reference)[http://docs.unity3d.com/Manual/SL-SurfaceShaders.html]
+* [shaderlab manual](http://docs.unity3d.com/Manual/ShadersOverview.html)
+* [shaderlab reference](http://docs.unity3d.com/Manual/SL-SurfaceShaders.html)
+* [cookbook](http://blog.csdn.net/candycat1992/article/details/39523251)
+
+
+### 汇编语言
+* [asm-wiki](ttp://en.wikipedia.org/wiki/Assembly_language)
+* [asm-examples](http://www.azillionmonkeys.com/qed/asmexample.html)
+
 
 ### 图形学
 
