@@ -1,16 +1,13 @@
 MY FAVORITE URL
 ============================
 
-### Book Mark
-* [shaderlab manual](http://docs.unity3d.com/Manual/ShadersOverview.html)
-* [shaderlab reference](http://docs.unity3d.com/Manual/SL-SurfaceShaders.html)
-* [cookbook](http://blog.csdn.net/candycat1992/article/details/39523251)
-
-
 ### 汇编语言
-* [asm-wiki](ttp://en.wikipedia.org/wiki/Assembly_language)
+* [asm-wiki](http://en.wikipedia.org/wiki/Assembly_language)
 * [asm-examples](http://www.azillionmonkeys.com/qed/asmexample.html)
-
+* [wiki-stack](http://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+* [wiki-Stack-based_memory_allocation](http://en.wikipedia.org/wiki/Stack-based_memory_allocation)
+* [developer-guides-manuals](http://developer.amd.com/resources/documentation-articles/developer-guides-manuals/)
+* [ibm-developer](http://www.ibm.com/developerworks/cn/linux/l-assembly/index.html)
 
 ### 图形学
 
@@ -179,6 +176,7 @@ MY FAVORITE URL
 ### Hack
 
 * [fosshub](http://www.fosshub.com/)
+* [看雪](http://bbs.pediy.com/)
 
 ### 一些汇总
 
@@ -213,3 +211,9 @@ MY FAVORITE URL
 * [携程UED](http://ued.ctrip.com/blog/)
 * [thinking with type](http://www.thinkingwithtype.com/)
 * [type is beautiful](http://www.typeisbeautiful.com/basics/)
+
+
+### 书签
+* [shaderlab manual](http://docs.unity3d.com/Manual/ShadersOverview.html)
+* [shaderlab reference](http://docs.unity3d.com/Manual/SL-SurfaceShaders.html)
+* [cookbook](http://blog.csdn.net/candycat1992/article/details/39523251)
