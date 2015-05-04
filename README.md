@@ -1,16 +1,21 @@
 MY FAVORITE URL
 ============================
 
-### 汇编语言
-* [asm-wiki](http://en.wikipedia.org/wiki/Assembly_language)
-* [asm-examples](http://www.azillionmonkeys.com/qed/asmexample.html)
-* [wiki-stack](http://en.wikipedia.org/wiki/Stack_(abstract_data_type)
-* [wiki-Stack-based_memory_allocation](http://en.wikipedia.org/wiki/Stack-based_memory_allocation)
-* [developer-guides-manuals](http://developer.amd.com/resources/documentation-articles/developer-guides-manuals/)
-* [ibm-developer](http://www.ibm.com/developerworks/cn/linux/l-assembly/index.html)
+### Book
+* [shaderlab manual](http://docs.unity3d.com/Manual/ShadersOverview.html)
+* [shaderlab reference](http://docs.unity3d.com/Manual/SL-SurfaceShaders.html)
+* [cookbook](http://blog.csdn.net/candycat1992/article/details/39523251)
+* [Pro Git](http://git-scm.com/book/zh)
+* [game programming patterns](http://gameprogrammingpatterns.com/contents.html)
 
-### 图形学
 
+### 游戏开发
+* [gafferongames](http://gafferongames.com/)
+* [RAIN AI](http://rivaltheory.com/community/)
+* [AIGameDev](http://aigamedev.com/)
+* [gameai](http://www.gameai.com/)
+* [Game AI Pro](http://www.gameaipro.com/)
+* [intro game dev](http://www.introgamedev.com/)
 * [opengpu](http://www.opengpu.org/forum.php)
 * [nehe](http://nehe.gamedev.net/)
 * [nehe-cn](http://www.yakergong.net/nehe/)
@@ -40,18 +45,14 @@ MY FAVORITE URL
 * [西川善司 3D图形技术 译文9-13回](http://www.opengpu.org/forum.php?mod=viewthread&tid=7550)
 * [wiki-Graph](http://en.wikipedia.org/wiki/Graph_%28mathematics%29)
 * [wiki-Graph-Traversal](http://en.wikipedia.org/wiki/Graph_traversal)
-
-
-### DirectX
 * [DirectX 游戏编程代码示例](http://msdn.microsoft.com/zh-cn/library/windows/apps/dn194515.aspx)
 * [DX11开发游戏 msdn](http://msdn.microsoft.com/zh-cn/library/windows/apps/hh452744.aspx)
 * [vs dx 调试](http://msdn.microsoft.com/zh-cn/library/windows/apps/hh315751)
 * [DirectX 游戏开发入门](http://msdn.microsoft.com/zh-cn/library/windows/apps/jj554502.aspx)
 * [vs2013-3d](http://msdn.microsoft.com/en-us/library/hh315737.aspx)
 
-
-### OpenGL
-
+### Node
+* [npm-doc](https://docs.npmjs.com/)
 
 
 ### 自己开发一个渲染引擎
@@ -165,18 +166,27 @@ MY FAVORITE URL
 * [百度百科经典算法链接集](http://www.cnblogs.com/oldman/articles/2592319.html)
 
 
-### 文档
+### Manual
 
 * [osc-api](http://tool.oschina.net/apidocs)
 * [unity-cn](http://edu.china.unity3d.com/learning_document)
 * [Git 参考手册](http://gitref.justjavac.com)
-* [Pro Git](http://git-scm.com/book/zh)
+
 
 
 ### Hack
 
 * [fosshub](http://www.fosshub.com/)
 * [看雪](http://bbs.pediy.com/)
+* [asm-wiki](http://en.wikipedia.org/wiki/Assembly_language)
+* [asm-examples](http://www.azillionmonkeys.com/qed/asmexample.html)
+* [wiki-stack](http://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+* [wiki-Stack-based_memory_allocation](http://en.wikipedia.org/wiki/Stack-based_memory_allocation)
+* [developer-guides-manuals](http://developer.amd.com/resources/documentation-articles/developer-guides-manuals/)
+* [ibm-developer](http://www.ibm.com/developerworks/cn/linux/l-assembly/index.html)
+* [linux syscalls](http://docs.cs.up.ac.za/programming/asm/derick_tut/syscalls.html)
+
+
 
 ### 一些汇总
 
@@ -211,9 +221,3 @@ MY FAVORITE URL
 * [携程UED](http://ued.ctrip.com/blog/)
 * [thinking with type](http://www.thinkingwithtype.com/)
 * [type is beautiful](http://www.typeisbeautiful.com/basics/)
-
-
-### 书签
-* [shaderlab manual](http://docs.unity3d.com/Manual/ShadersOverview.html)
-* [shaderlab reference](http://docs.unity3d.com/Manual/SL-SurfaceShaders.html)
-* [cookbook](http://blog.csdn.net/candycat1992/article/details/39523251)
