@@ -25,6 +25,7 @@ MY FAVORITE URL
 * [nvidia-developer](https://developer.nvidia.com/)
 * [gamedev](http://www.gamedev.net/)
 * [physically-based rendering](http://www.physicallybasedrendering.com/)
+* [unity3d-wiki](http://wiki.unity3d.com/index.php/Main_Page)
 * [wiki-cg](http://en.wikibooks.org/wiki/Cg_Programming)
 * [wiki-glsl](http://en.wikibooks.org/wiki/GLSL_Programming)
 * [wiki-category-cg](http://en.wikibooks.org/wiki/Category:Cg_Programming)
@@ -188,7 +189,7 @@ MY FAVORITE URL
 
 
 
-### 一些汇总
+### Awesome
 
 * [前端技能汇总](https://github.com/JacksonTian/fks)
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -198,6 +199,10 @@ MY FAVORITE URL
 * [程序员应该读的书](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html)
 * [程序员应该读的非编程的书(stackoverflow)](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)
 * [程序员应该读的书(stackoverflow)](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713#1713)
+* [awesome](https://github.com/sindresorhus/awesome)
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [silly and awesome lists curated on GitHub.](https://github.com/jnv/lists)
+* [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 
 
 ### 前端
@@ -221,3 +226,6 @@ MY FAVORITE URL
 * [携程UED](http://ued.ctrip.com/blog/)
 * [thinking with type](http://www.thinkingwithtype.com/)
 * [type is beautiful](http://www.typeisbeautiful.com/basics/)
+
+### API
+* [百度API](http://apistore.baidu.com/)
