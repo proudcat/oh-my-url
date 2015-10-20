@@ -2,7 +2,6 @@ MY FAVORITE URL
 ============================
 
 ### 前端
-
 * [w3school 入门](http://www.w3school.com.cn/)
 * [w3cschool](http://www.w3cschool.cc/)
 * [前端观察](http://www.qianduan.net/)
@@ -22,11 +21,13 @@ MY FAVORITE URL
 * [携程UED](http://ued.ctrip.com/blog/)
 * [thinking with type](http://www.thinkingwithtype.com/)
 * [type is beautiful](http://www.typeisbeautiful.com/basics/)
+* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+* [前端技能汇总](https://github.com/JacksonTian/fks)
 
+### Nodejs
+* [node123](https://github.com/youyudehexie/node123)
 
 ### Awesome
-
-* [前端技能汇总](https://github.com/JacksonTian/fks)
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 * [free-programming-books](https://github.com/vhf/free-programming-books)
 * [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN)
@@ -38,12 +39,16 @@ MY FAVORITE URL
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [silly and awesome lists curated on GitHub.](https://github.com/jnv/lists)
 * [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-
-
-### 教程
-* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/) (简体)
 * [w3school离线资源](http://www.flygon.net/archives/427)
+* [cookbook](http://blog.csdn.net/candycat1992/article/details/39523251)
+* [Pro Git](http://git-scm.com/book/zh)
+* [game programming patterns](http://gameprogrammingpatterns.com/contents.html)
+
+### IOS
+* [SwiftGuide](https://github.com/ipader/SwiftGuide)
+* [swift-language-in-chinese](https://github.com/DiveinEdu/swift-language-in-chinese)
+* [swift-zh_CN](http://wiki.jikexueyuan.com/project/swift/)
 
 
 ### Manual
@@ -51,18 +56,9 @@ MY FAVORITE URL
 * [osc-api](http://tool.oschina.net/apidocs)
 * [unity-cn](http://edu.china.unity3d.com/learning_document)
 * [Git 参考手册](http://gitref.justjavac.com)
-
-
-### Book
-* [shaderlab manual](http://docs.unity3d.com/Manual/ShadersOverview.html)
-* [shaderlab reference](http://docs.unity3d.com/Manual/SL-SurfaceShaders.html)
-* [cookbook](http://blog.csdn.net/candycat1992/article/details/39523251)
-* [Pro Git](http://git-scm.com/book/zh)
-* [game programming patterns](http://gameprogrammingpatterns.com/contents.html)
-
+* [clang-user-manual](https://github.com/oxnz/clang-user-manual)
 
 ### 牛逼闪闪的blog
-
 * [sillyboy](http://sillyboy.sinaapp.com/)(shader)
 * [罗朝辉](http://www.cnblogs.com/kesalin/)
 * [lucida](http://zh.lucida.me/)
@@ -104,7 +100,6 @@ MY FAVORITE URL
 
 
 ### 社区
-
 * [9ria](http://www.9ria.com/)
 * [极客公园](http://www.geekpark.net/)
 * [channel9](http://channel9.msdn.com/)
@@ -122,7 +117,6 @@ MY FAVORITE URL
 
 
 ### 资讯&资源
-
 * [游戏邦](http://gamerboom.com/)
 * [极客公园](http://www.geekpark.net/)
 * [灵感起源](http://www.ideasr.com/)
@@ -147,7 +141,6 @@ MY FAVORITE URL
 
 
 ### Hack
-
 * [fosshub](http://www.fosshub.com/)
 * [看雪](http://bbs.pediy.com/)
 * [asm-wiki](http://en.wikipedia.org/wiki/Assembly_language)
@@ -207,7 +200,8 @@ MY FAVORITE URL
 * [vs dx 调试](http://msdn.microsoft.com/zh-cn/library/windows/apps/hh315751)
 * [DirectX 游戏开发入门](http://msdn.microsoft.com/zh-cn/library/windows/apps/jj554502.aspx)
 * [vs2013-3d](http://msdn.microsoft.com/en-us/library/hh315737.aspx)
-
+* [shaderlab manual](http://docs.unity3d.com/Manual/ShadersOverview.html)
+* [shaderlab reference](http://docs.unity3d.com/Manual/SL-SurfaceShaders.html)
 
 ### 自己开发一个渲染引擎
 
